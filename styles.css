@@ -60,3 +60,9 @@ img {
   margin: 0 0 15px 0;
 }
 
+@media screen and (min-width: 576px)
+{
+  .blue-box{
+    display:block;
+  }
+}
